@@ -1,0 +1,1 @@
+../../IMQuickSearch/Classes/IMQuickSearchFilter.h

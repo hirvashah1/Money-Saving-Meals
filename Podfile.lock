@@ -1,0 +1,43 @@
+PODS:
+  - AKPickerView (0.0.3)
+  - AMScrollingNavbar (1.0.1)
+  - AMSlideMenu (1.5.3)
+  - ASValueTrackingSlider (0.9.3)
+  - CRMotionView (0.3.1)
+  - CSStickyHeaderFlowLayout (0.2.1)
+  - IMQuickSearch (1.1.0)
+  - pop (1.0.7)
+  - PWParallaxScrollView (1.1.5)
+  - RPSlidingMenu (1.0.3)
+  - SVSegmentedControl (0.2)
+  - TOMSMorphingLabel (0.2.1)
+
+DEPENDENCIES:
+  - AKPickerView
+  - AMScrollingNavbar
+  - AMSlideMenu
+  - ASValueTrackingSlider
+  - CRMotionView
+  - CSStickyHeaderFlowLayout
+  - IMQuickSearch
+  - pop
+  - PWParallaxScrollView
+  - RPSlidingMenu
+  - SVSegmentedControl
+  - TOMSMorphingLabel
+
+SPEC CHECKSUMS:
+  AKPickerView: 8cd37308b04e47e879bba3fb4d9f440d9c54934d
+  AMScrollingNavbar: ff4d5a72b463eb03c764e91ac21312407d3bf6c6
+  AMSlideMenu: ab0c9313c74eac61e360d2a714d2d8202f6de916
+  ASValueTrackingSlider: e83d12c6ec9b179608272b7f69db2621c45cce1b
+  CRMotionView: eb647a819fe72d5cbad8963486022cb045a63d24
+  CSStickyHeaderFlowLayout: 50d1968dc88560419a96beab3de0fa47a4294eac
+  IMQuickSearch: 2892520b86740303d23bf2b08693fb89c6a5751c
+  pop: 2f14a1ea61339767af9e66741b418c831b3844df
+  PWParallaxScrollView: bf7b67a37a4afc52ff22c2e627a1438a388beba3
+  RPSlidingMenu: d62f7c87eb7d8c630c67fdf63b9b4e5d94fff6b3
+  SVSegmentedControl: 755a9721054734a77841147de3cc8babf09ba7f1
+  TOMSMorphingLabel: d440376a26bcd932ab5d2ef2cbcf0a5a41721739
+
+COCOAPODS: 0.33.1

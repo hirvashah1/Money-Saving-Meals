@@ -1,0 +1,7 @@
+CLANG_CXX_LANGUAGE_STANDARD = c++11
+CLANG_CXX_LIBRARY = libc++
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/AKPickerView" "${PODS_ROOT}/Headers/AMScrollingNavbar" "${PODS_ROOT}/Headers/AMSlideMenu" "${PODS_ROOT}/Headers/ASValueTrackingSlider" "${PODS_ROOT}/Headers/CRMotionView" "${PODS_ROOT}/Headers/CSStickyHeaderFlowLayout" "${PODS_ROOT}/Headers/IMQuickSearch" "${PODS_ROOT}/Headers/PWParallaxScrollView" "${PODS_ROOT}/Headers/RPSlidingMenu" "${PODS_ROOT}/Headers/SVSegmentedControl" "${PODS_ROOT}/Headers/TOMSMorphingLabel" "${PODS_ROOT}/Headers/pop"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers" -isystem "${PODS_ROOT}/Headers/AKPickerView" -isystem "${PODS_ROOT}/Headers/AMScrollingNavbar" -isystem "${PODS_ROOT}/Headers/AMSlideMenu" -isystem "${PODS_ROOT}/Headers/ASValueTrackingSlider" -isystem "${PODS_ROOT}/Headers/CRMotionView" -isystem "${PODS_ROOT}/Headers/CSStickyHeaderFlowLayout" -isystem "${PODS_ROOT}/Headers/IMQuickSearch" -isystem "${PODS_ROOT}/Headers/PWParallaxScrollView" -isystem "${PODS_ROOT}/Headers/RPSlidingMenu" -isystem "${PODS_ROOT}/Headers/SVSegmentedControl" -isystem "${PODS_ROOT}/Headers/TOMSMorphingLabel" -isystem "${PODS_ROOT}/Headers/pop"
+OTHER_LDFLAGS = -ObjC -lc++ -framework CoreMotion -framework QuartzCore -framework UIKit
+PODS_ROOT = ${SRCROOT}/Pods
